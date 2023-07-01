@@ -29,5 +29,5 @@
 -No Recoil\
 -Melee Range 100m\
 -Burst\
--Custom Firerate (100 - 1500)\
+-Custom Firerate (100 - 1500)
 
