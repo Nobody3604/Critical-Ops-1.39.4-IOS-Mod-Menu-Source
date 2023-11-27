@@ -1,6 +1,6 @@
 # Critical-Ops-1.39.4-IOS-Mod-Menu-Source
 
-![3C1B53DB-F9A3-4E64-AD01-71D8D5F477FB](https://github.com/Nobody3604/Critical-Ops-1.39.4-IOS-Mod-Menu-Source/assets/128010085/459efb1b-a74e-4ee5-a1b9-70c3271ac36d)
+![IMG2](IMG_2.png)
 
 
 
@@ -31,4 +31,11 @@
 -Melee Range 100m\
 -Burst\
 -Custom Firerate (100 - 1500)
+
+## Credits:
+<li><a href="https://github.com/joeyjurjens">joeyjurjens </a>
+<ul dir="auto">
+<li>For <a href="https://github.com/joeyjurjens/iOS-Mod-Menu-Template-for-Theos">Mod Menu Template</a></li>
+</li>
+  </ul>
 
